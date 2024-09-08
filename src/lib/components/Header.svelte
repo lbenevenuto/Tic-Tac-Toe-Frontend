@@ -21,8 +21,6 @@
           <a class={$page.url.pathname === '/tic-tac-toe' ? 'active' : ''} href="/tic-tac-toe">Tic Tac Toe</a>
         </li>
       </ul>
-    </div>
-    <div class="dropdown">
       <div tabindex="0" role="button" class="btn btn-ghost invisible lg:visible">
         <img src="{TicTocToe}" alt="Tic Tac Toe" />
       </div>
