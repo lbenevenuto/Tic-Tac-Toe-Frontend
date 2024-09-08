@@ -1,2 +1,5 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<div class="text-center mt-4">
+  <h1 class="text-3xl">
+    Welcome to the <span class="font-bold underline">Tic Tac Toe</span> game!
+  </h1>
+</div>
